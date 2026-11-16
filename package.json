@@ -1,0 +1,6 @@
+{
+  "name": "second-look",
+  "private": true,
+  "description": "One photo, a guaranteed price to repair or trade in a Zara garment.",
+  "engines": { "node": ">=18" }
+}
